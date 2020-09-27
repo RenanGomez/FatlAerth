@@ -3,3 +3,12 @@ Esta es la historia de Emmanuel Gomez
 Emmanuel gomez tiene 33 años y nació en México
 
 El decidio cambiar su vida
+
+let's see what happens
+
+
+Linea cambiada ++
+Linea cambiada ++
+
+Se eliminó la linea de arriba, Linea cambiada ++
+Linea cambiada ++
