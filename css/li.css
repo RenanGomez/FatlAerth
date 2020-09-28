@@ -6,13 +6,27 @@ li {
 #mainSpace
 {
     width: 60%;
-    padding: 2em;
+
     margin: 0 auto;
     text-align: center;
     border: 1px solid #928f91;
+    
 }
 
 h3
 {
-color: rgb(183, 23, 204);
+color: rgb(255, 255, 255);
+}
+
+#msHeader {
+    box-shadow: 0px 2px 20px 0px rgba(0,0, 0, 5);
+    font-family: Arial;
+    text-align: left;
+    background-color: cornflowerblue;
+    padding: 0.5em;
+    margin: 0;
+
+}
+#msHeaderSpan{
+    font-size: small;
 }
