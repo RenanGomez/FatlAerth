@@ -2,3 +2,17 @@ li {
     background-color: green;
     color: ghostwhite;
 }
+
+#mainSpace
+{
+    width: 60%;
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid #928f91;
+}
+
+h3
+{
+color: rgb(183, 23, 204);
+}
