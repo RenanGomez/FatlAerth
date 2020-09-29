@@ -1,0 +1,2 @@
+# chairoblog
+Un blog chingon
